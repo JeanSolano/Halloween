@@ -1,0 +1,38 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ff8000;
+}
+
+h1,h2,.centrar{
+    text-align: center;
+}
+
+/*EN EL CONTENIDO DE LA PAGINA*/
+.contenedor{
+    padding: 0;
+    margin: 50px auto 0;
+    width: 900px;
+
+}
+
+.justificar{
+    text-align: justify;
+}
+
+.contenido{
+    margin: 0;
+    padding: 10px;
+    float: left;
+    width: 936px;
+    background-color:#fff;
+    border: 3px solid black;
+}
+
+.header{
+    color:  black;
+    padding: 30px 15px;
+    margin: 0 auto;
+
+}
